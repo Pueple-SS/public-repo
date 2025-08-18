@@ -1,4 +1,4 @@
 # public-repo
 Supawat Siriwirot
 
-[logo]: https://github.com/BlueRedMurasaki/public-repo/blob/main/lataus.jpg "Repo"
+[<img src="lataus.png">](https://docs.microsoft.com/en-us/windows/console/setconsolemode)
