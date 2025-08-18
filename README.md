@@ -1,4 +1,4 @@
 # public-repo
 Supawat Siriwirot
 
-[<img src="lataus.png">](https://docs.microsoft.com/en-us/windows/console/setconsolemode)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
